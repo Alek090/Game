@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment0.text=\r\n\ begins\ game\r\n
+comment1.params=
+comment1.target=void\ startGame()
+comment1.text=\ Starts\ a\ new\ game\r\n
+comment2.params=room
+comment2.target=void\ displayCurrentRoom(Room)
+comment2.text=\ Displays\ a\ description\ of\ the\ room\ where\ the\ character\ is\ currently\ located.\r\n
+comment3.params=
+comment3.target=void\ displayIntro()
+comment4.params=
+comment4.target=void\ init()
+comment5.params=direction
+comment5.target=void\ move(java.lang.String)
+comment5.text=\ 'Move'\ command\r\n\ \r\n\ Moves\ the\ player\ in\ a\ given\ direction.\r\n\ \r\n\ @param\ direction\ -\ the\ direction\ the\ player\ wants\ to\ go.\r\n
+comment6.params=direction
+comment6.target=boolean\ canMove(java.lang.String)
+comment6.text=\ @param\ direction\ -\ the\ direction\ the\ player\ wants\ to\ go.\r\n\ \r\n\ \ @return\ true\ if\ the\ player's\ chosen\ direction\ is\ allowed\ from\ their\ current\ location,\r\n\ \ \ \ \ \ \ \ \ \ false\ otherwise.\r\n
+numComments=7
